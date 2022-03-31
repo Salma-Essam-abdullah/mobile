@@ -1,5 +1,5 @@
 # Fitness Project
-Team Name:
+Team Names:
 Salma Essam Abdullah
 Habiba Gamal
 Esraa Gamal
