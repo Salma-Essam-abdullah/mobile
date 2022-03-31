@@ -4,7 +4,7 @@ Salma Essam Abdullah
 Habiba Gamal
 Esraa Gamal
 Esraa Mohamed Mohamed Samy
-Basamala Mohamed zain
+Basmala Mohamed zain
 Engy Ahmed Abdelaziz
 ![login](https://user-images.githubusercontent.com/100247009/160927995-42f92e6a-9b83-44ed-b7f9-9de4a0ae452e.jpeg)
 ![home](https://user-images.githubusercontent.com/100247009/160927321-a3107360-56d7-4265-be82-dac7ece709f1.jpeg)
